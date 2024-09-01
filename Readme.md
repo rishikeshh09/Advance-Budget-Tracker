@@ -19,3 +19,11 @@ View reports to analyze your financial data.
 ## PPT File to present the Project in my college
 
 [advance budget tracker  ppt.pptx](https://github.com/user-attachments/files/16830678/advance.budget.tracker.ppt.pptx)
+
+
+## Screentshots
+![image](https://github.com/user-attachments/assets/783dd5de-5ed2-4fa5-8982-549ad9732159)
+![image](https://github.com/user-attachments/assets/cdaf5ea5-a236-4923-9529-7a12e53d9bac)
+![image](https://github.com/user-attachments/assets/07c9d967-a357-45ed-909d-c10078abc9f9)
+
+
