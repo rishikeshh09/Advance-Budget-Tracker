@@ -1,5 +1,5 @@
 # Overview
-### Advance Budget Tracker is a comprehensive web application designed to help users manage and track their personal finances. The application allows users to categorize their income and expenses, set budgets, and visualize their financial data through interactive charts. This project was developed as part of a college assignment and showcases a variety of web development techniques and tools.
+### Advance Budget Tracker is a comprehensive web application designed to help users manage and track their personal finances. The application allows users to categorize their income and expenses, set budgets, and visualize their financial data. This project was developed as part of a college assignment and showcases a variety of web development techniques and tools.
 
 ## Features
 - User Authentication: Secure login and registration system.
